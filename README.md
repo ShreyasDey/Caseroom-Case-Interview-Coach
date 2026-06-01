@@ -1,4 +1,4 @@
-# Caseroom — AI Case Interview Coach
+# Caseroom - AI Case Interview Coach
 
 A local React app where an AI plays a strategy-consulting case interviewer
 and scores your performance. The frontend (Vite) talks to a tiny Express
